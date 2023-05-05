@@ -1,0 +1,17 @@
+# Packages
+
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import os
+os.environ['USE_PYGEOS'] = '0'
+import geopandas as gpd
+import seaborn as sns
+import folium
+
+# For geocoding
+from geopy.geocoders import Nominatim
+
+import requests
+from requests import get
+
