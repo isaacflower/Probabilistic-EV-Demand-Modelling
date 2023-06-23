@@ -15,3 +15,5 @@ from geopy.geocoders import Nominatim
 import requests
 from requests import get
 
+# Vehicle Registration
+
